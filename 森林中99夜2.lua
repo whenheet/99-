@@ -3373,42 +3373,42 @@ Main:Toggle({
     end
 })
 WindUI:Notify({
-                        Title = "DEBRIS ORBIT",
+                        Title = "大司马",
                         Content = "为你自动切换英文，自己调整",
                         Duration = 3,
                         Icon = "alert-circle"
                     })
                     
                     WindUI:Notify({
-                        Title = "DEBRIS ORBIT",
+                        Title = "大司马脚本",
                         Content = "为你自动切换英文，自己调整",
                         Duration = 3,
                         Icon = "alert-circle"
                     })
                     
                     WindUI:Notify({
-                        Title = "DEBRIS ORBIT",
+                        Title = "小云",
                         Content = "为你自动切换英文，自己调整",
                         Duration = 3,
                         Icon = "alert-circle"
                     })
                     
                     WindUI:Notify({
-                        Title = "DEBRIS ORBIT",
+                        Title = "猫王",
                         Content = "为你自动切换英文，自己调整",
                         Duration = 3,
                         Icon = "alert-circle"
                     })
                     
                     WindUI:Notify({
-                        Title = "DEBRIS ORBIT",
+                        Title = "云脚本",
                         Content = "为你自动切换英文，自己调整",
                         Duration = 3,
                         Icon = "alert-circle"
                     })
 end
 WindUI:Notify({
-                        Title = "DEBRIS ORBIT",
+                        Title = "猫脚本",
                         Content = "为你自动切换英文，自己调整",
                         Duration = 3,
                         Icon = "alert-circle"
